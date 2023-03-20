@@ -1,2 +1,2 @@
 # hmis-repo01
-Primer repositorio GitHub HMIS
+Mi nombre es Javier Cholbi López, tengo 22 años y vivo en Rioja, Almería. 
